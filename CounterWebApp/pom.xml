@@ -4,7 +4,7 @@
 	<groupId>com.mkyong</groupId>
 	<artifactId>CounterWebApp</artifactId>
 	<packaging>war</packaging>
-	<version>${project.version}</version>
+	<version>${demo.version}</version>
 	<name>CounterWebApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
