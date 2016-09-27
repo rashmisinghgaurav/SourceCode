@@ -255,7 +255,7 @@
 		<repository>
 			<id>releases</id>
 			<name>Internal Releases</name>
-			<url>http://localhost:8081/nexus/content/repositories/releases</url>
+			<url>http://10.191.210.42:8081/nexus/content/repositories/releases</url>
 		</repository>
 	</distributionManagement>
 
