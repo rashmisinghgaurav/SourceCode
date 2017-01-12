@@ -177,6 +177,7 @@
 						<exclude>**/at/**</exclude>
 						<exclude>**/it/**</exclude>
 					</excludes>
+					<argLine>-agentpath:"C:\Program Files\dynaTrace\Dynatrace 6.5\agent\lib64\dtagent.dll"=name=${dynaTrace.agentGroup}_${dynaTrace.profileName},server=${dynaTrace.collector},optionTestRunIdJava=${dtTestrunID}</argLine>
 				</configuration>
 			</plugin>
 			<plugin>
